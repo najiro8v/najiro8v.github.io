@@ -1,0 +1,36 @@
+{
+    "Experiences": {
+        "title": "Experiencias laborales",
+        "paragraph1": "Actualemente me encuentro trabajando tiempo completo con en RDS como soporte Tecnico y de desarrollo aplicaciones y sistemas informaticos.",
+        "paragraph2": "La mayor parte de mi experiencias laborar ha sido enfocada a las tecnología y la enseñanza de la misma, manejo varias herramientas digitales.",
+        "paragraph3": "Otros enfoques relacionados y habilidades que tuve aprender para la misma ha sido el uso correcto de diseños digitales y presentación de la información, esto para facilitar el uso para usurios comunes de un sistema, como para profesionales o estudiantes."
+    },
+    "Education": {
+        "title": "Educación"
+    },
+    "Soft_Skills": {
+        "title": "Habilidades Blandas",
+        "Self-taught": "Autodidacta y renovación de aprendizaje constante",
+        "Stress": "Manejo de Estres y propuesta de Soluciones en momentos críticos",
+        "Solidarity": "Solidaridad y Facilidad para enseñar a compañeros",
+        "environment": "Fácil Adaptación al ambiente"
+    },
+    "Skills": {
+        "title": "Habilidades",
+        "Programming_Language": "Lenguajes de Programación",
+        "bard_desc": "Conexión de Api",
+        "ERP": "Manejo de ERP and CRM",
+        "Database_Manager": "Gestores de Bases de Datos",
+        "powerapp_desc": "Aplicaciones para resolver problemas empresariales",
+        "powerauto_desc": "Flujos automatizados",
+        "MSGAPI_desc": "Api y registro de aplicaciones",
+        "GoogleCl_desc": "Sistema de google para apps",
+        "powerBI_Desc": "Dashboard con Power BI",
+        "gpt_desc": "Conexión de Api y Creación de Prompt para asistentes",
+        "appscrip_desc": "Apí de Google para creación de aplicaciones con el espacio de trabajo de Google"
+    },
+    "Others": "Otros",
+    "Menu": {
+        "projetc": "Proyectos"
+    }
+}

@@ -54,7 +54,6 @@
     </style>
   </head>
   <body>
-    <button onclick="returnHost()">Back</button>
     <noscript
       >This webpage makes extensive use of JavaScript. Please enable JavaScript
       in your web browser to view this page.</noscript
@@ -64,12 +63,6 @@
 
     <script type="text/javascript">
       lime.embed("Scroll_2", "openfl-content", 640, 480, { parameters: {} });
-      function returnHost() {
-        const ref = location.href;
-        const path = location.pathname;
-        const host = ref.replace(path, "");
-        window.location.replace(host);
-      }
     </script>
   </body>
 </html>
