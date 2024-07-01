@@ -1,9 +1,49 @@
 {
+    "Utils": {
+        "Info": "Más info",
+        "Icon": "Iconos"
+    },
+    "Resume": {
+        "title": "Información Personal",
+        "Job": "Desarrollador de Aplicaciones",
+        "AddressT": "Dirreción: ",
+        "EmailT": "Correo Electrónico: "
+    },
     "Experiences": {
         "title": "Experiencias laborales",
-        "paragraph1": "Actualemente me encuentro trabajando tiempo completo con en RDS como soporte Tecnico y de desarrollo aplicaciones y sistemas informaticos.",
-        "paragraph2": "La mayor parte de mi experiencias laborar ha sido enfocada a las tecnología y la enseñanza de la misma, manejo varias herramientas digitales.",
-        "paragraph3": "Otros enfoques relacionados y habilidades que tuve aprender para la misma ha sido el uso correcto de diseños digitales y presentación de la información, esto para facilitar el uso para usurios comunes de un sistema, como para profesionales o estudiantes."
+        "paragraph1": "Actualemente me encuentro trabajando tiempo completo en RDS como soporte Tecnico y desarrollador para aplicaciones y sistemas informaticos.",
+        "paragraph2": "La mayor parte de mi experiencia laborar ha sido enfocada a la tecnología y la enseñanza de la misma, manejo varias herramientas digitales.",
+        "paragraph3": "Otros enfoques relacionados y habilidades que tuve aprender ha sido el uso correcto de diseños digitales y presentación de la información, esto para facilitar el uso para usuarios comunes de un sistema, como para profesionales o estudiantes.",
+        "RDS": {
+            "SubTitle": "Trabajo como soporte Tecnico y de desarrollo desempeñado las siguiente tareas:",
+            "Info": {
+                "0": "Creación de Reporte con Gestores de Bases de datos y ERP como SAP Bussines One",
+                "1": "Creación de flujos automatizados con el Workspace que ofrece Office",
+                "2": "Envio de Facturación electrónicas, ante las leyes de hacienda con uso del proveedor GTI",
+                "3": "Revisión y correción de errores de productivo para aplicaciones web con Angular y Node"
+            }
+        },
+        "EDNET": {
+            "SubTitle": "Trabajé como director educativo, encargado de las actividades que se tendrían que realizar durante las sesiones, tambien impartiendo las sesiones a un publico de diferentes edades niños ( 7 - 12 ), adolecentes ( 12 - 20 ) y adultos en adelante ( 20 - 65 )",
+            "Info": {
+                "0": {
+                    "title": "Se daban sesiones de enseñanza de:",
+                    "0": "Offimatica",
+                    "1": "Programación",
+                    "2": "Diseño Digital",
+                    "3": "Dibujo"
+                },
+                "1": {
+                    "0": "Los proyectos y aplicaciones creados para el uso de los profesores (llamados dentro de la ong como \"Motivadores\") la herramienta web fue creada por mi persona, haciendo uso de appscript, una base de datos previamente creada por un compañero con excel, html, js y bootstrap",
+                    "1": "Para luego en la versión 2 hacer uso de React para el frontend"
+                },
+                "2": "Creación de Juegos educativos para enseñanza de habilidades, haciendo uso de multiples herramientas (html, Stencyl, Scratch, Power Point, Word, etc...)"
+            }
+        },
+        "FUno": {
+            "SubTitle": "Trabajé realizando tutorias para la ensañanza de programación, haciendo uso de herramientas y lenguajes cómo:",
+            "Info": { "0": "Lenguaje C" }
+        }
     },
     "Education": {
         "title": "Educación"

@@ -1,9 +1,49 @@
 {
+    "Utils": {
+        "Info": "More info",
+        "Icon": "Icons"
+    },
+    "Resume": {
+        "title": "Personal Information",
+        "Job": "App developer",
+        "AddressT": "Address: ",
+        "EmailT": "Email: "
+    },
     "Experiences": {
         "title": "Experiences",
-        "paragraph1": "Actualemente me encuentro trabajando tiempo completo con en RDS como soporte Tecnico y de desarrollo aplicaciones y sistemas informaticos.",
-        "paragraph2": "La mayor parte de mi experiencias laborar ha sido enfocada a las tecnología y la enseñanza de la misma, manejo varias herramientas digitales.",
-        "paragraph3": "Otros enfoques relacionados y habilidades que tuve aprender para la misma ha sido el uso correcto de diseños digitales y presentación de la información, esto para facilitar el uso para usurios comunes de un sistema, como para profesionales o estudiantes."
+        "paragraph1": "At present, i'm working full-time with the enterprise called RDS in Costa Rica, i'm working how TI and APP's developer",
+        "paragraph2": "The most time i have working, i have focusing on tecnology and teaching it, i can handle many software",
+        "paragraph3": "Others relational subjects and skills that i having to learn by myself was the right use to made designes and slides for the information exposure, i did that's for made easier the documentation to common users, profesionals and students.",
+        "RDS": {
+            "SubTitle": "I work like TI and developer for this tasks:",
+            "Info": {
+                "0": "Making Dashboard and Queries With Database managers and ERP like SAP Bussines One",
+                "1": "Making automated workflows with Office Workspace ",
+                "2": "Sending electronic Invoices, using Hacienda's laws and with GTI how services supplier ",
+                "3": "Doing bugfix for web app with Angular and Nodejs  on production "
+            }
+        },
+        "EDNET": {
+            "SubTitle": "I was having working how educative director, i was the activities manager between the sesions, also i was the instructor during the sesions and I taught to groups with a big range of ages, such as kids (7 - 2), teens (12-20) and adults (20 - 65)  ",
+            "Info": {
+                "0": {
+                    "title": "We taught about:",
+                    "0": "Office automation",
+                    "1": "Programming",
+                    "2": "Digital design",
+                    "3": "Drawing"
+                },
+                "1": {
+                    "0": "The projects and apps for the teachers (called inside the ong as \"Motivadores\" ) the tool web was made by myself, using appscript, html, javascript and bootstrap, also a database with excel previusly made by my co-worker",
+                    "1": "Then the version 2 was made with the framework React to make the Frontend"
+                },
+                "2": "I created educative video games to teach new skills, using many software  such as : HTML, Stencyl, Scracth, Power Point, Excel, etc..."
+            }
+        },
+        "FUno": {
+            "SubTitle": "I was having working as tutor teaching programming using tools and programming lenguages such as:",
+            "Info": { "0": "C" }
+        }
     },
     "Education": {
         "title": "Education"
